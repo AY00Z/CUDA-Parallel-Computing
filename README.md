@@ -1,6 +1,7 @@
-# GPGPU – CUDA Practice (TP 1)
+# GPGPU – CUDA Practice 
 
 Hands-on projects in **parallel programming on NVIDIA GPUs** with CUDA C++.
+
 Course: GPU Architecture & High-Performance Computing – Master 2, Université Gustave Eiffel.
 
 ## Hardware
