@@ -1,0 +1,10 @@
+^C:\USERS\AYA20\DESKTOP\MASTER GYSTAVE EIFFEL\M2 COURS\GPGPU\TD\TP1_GPGPU\BUILD\CMAKEFILES\64461B4200E5953A5A6EB86051396FF0\GENERATE.STAMP.RULE
+setlocal
+C:\Users\aya20\miniconda3\Library\bin\cmake.exe "-SC:/Users/aya20/Desktop/Master Gystave Eiffel/M2 cours/GPGPU/TD/TP1_GPGPU" "-BC:/Users/aya20/Desktop/Master Gystave Eiffel/M2 cours/GPGPU/TD/TP1_GPGPU/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/aya20/Desktop/Master Gystave Eiffel/M2 cours/GPGPU/TD/TP1_GPGPU/build/Project.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

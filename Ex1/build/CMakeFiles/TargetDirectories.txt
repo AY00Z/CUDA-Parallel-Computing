@@ -1,0 +1,3 @@
+/home/ens/edu-biri/Enseignement/GPGPU/TP1_GPGPUn/Ex1/build/CMakeFiles/deviceProperties.dir
+/home/ens/edu-biri/Enseignement/GPGPU/TP1_GPGPUn/Ex1/build/CMakeFiles/edit_cache.dir
+/home/ens/edu-biri/Enseignement/GPGPU/TP1_GPGPUn/Ex1/build/CMakeFiles/rebuild_cache.dir

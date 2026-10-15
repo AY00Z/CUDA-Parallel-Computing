@@ -1,0 +1,10 @@
+^C:\USERS\AYA20\DESKTOP\MASTER GYSTAVE EIFFEL\M2 COURS\GPGPU\TD\TP1_GPGPU\EX3\CMAKELISTS.TXT
+setlocal
+C:\Users\aya20\miniconda3\Library\bin\cmake.exe "-SC:/Users/aya20/Desktop/Master Gystave Eiffel/M2 cours/GPGPU/TD/TP1_GPGPU" "-BC:/Users/aya20/Desktop/Master Gystave Eiffel/M2 cours/GPGPU/TD/TP1_GPGPU/build" --check-stamp-file "C:/Users/aya20/Desktop/Master Gystave Eiffel/M2 cours/GPGPU/TD/TP1_GPGPU/build/Ex3/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

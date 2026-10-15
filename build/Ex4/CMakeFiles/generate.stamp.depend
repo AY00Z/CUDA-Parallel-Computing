@@ -1,0 +1,13 @@
+# CMake generation dependency list for this directory.
+C:/Users/aya20/Desktop/Master Gystave Eiffel/M2 cours/GPGPU/TD/TP1_GPGPU/Ex4/CMakeLists.txt
+C:/Users/aya20/Desktop/Master Gystave Eiffel/M2 cours/GPGPU/TD/TP1_GPGPU/build/CMakeFiles/4.4.0/CMakeCUDACompiler.cmake
+C:/Users/aya20/miniconda3/Library/share/cmake-4.4/Modules/CMakeCUDAInformation.cmake
+C:/Users/aya20/miniconda3/Library/share/cmake-4.4/Modules/CMakeCommonLanguageInclude.cmake
+C:/Users/aya20/miniconda3/Library/share/cmake-4.4/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Users/aya20/miniconda3/Library/share/cmake-4.4/Modules/Compiler/NVIDIA-CUDA.cmake
+C:/Users/aya20/miniconda3/Library/share/cmake-4.4/Modules/Compiler/NVIDIA.cmake
+C:/Users/aya20/miniconda3/Library/share/cmake-4.4/Modules/FindCUDAToolkit.cmake
+C:/Users/aya20/miniconda3/Library/share/cmake-4.4/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/aya20/miniconda3/Library/share/cmake-4.4/Modules/FindPackageMessage.cmake
+C:/Users/aya20/miniconda3/Library/share/cmake-4.4/Modules/Platform/Windows-MSVC.cmake
+C:/Users/aya20/miniconda3/Library/share/cmake-4.4/Modules/Platform/Windows-NVIDIA-CUDA.cmake

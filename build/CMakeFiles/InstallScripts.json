@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/aya20/Desktop/Master Gystave Eiffel/M2 cours/GPGPU/TD/TP1_GPGPU/build/cmake_install.cmake",
+		"C:/Users/aya20/Desktop/Master Gystave Eiffel/M2 cours/GPGPU/TD/TP1_GPGPU/build/Ex1/cmake_install.cmake",
+		"C:/Users/aya20/Desktop/Master Gystave Eiffel/M2 cours/GPGPU/TD/TP1_GPGPU/build/Ex2/cmake_install.cmake",
+		"C:/Users/aya20/Desktop/Master Gystave Eiffel/M2 cours/GPGPU/TD/TP1_GPGPU/build/Ex3/cmake_install.cmake",
+		"C:/Users/aya20/Desktop/Master Gystave Eiffel/M2 cours/GPGPU/TD/TP1_GPGPU/build/Ex4/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

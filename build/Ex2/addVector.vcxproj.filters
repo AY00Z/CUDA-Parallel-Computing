@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\aya20\Desktop\Master Gystave Eiffel\M2 cours\GPGPU\TD\TP1_GPGPU\Ex2\src\chronoCPU.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CudaCompile Include="..\..\Ex2\src\main.cu">
+      <Filter>Source Files</Filter>
+    </CudaCompile>
+    <CudaCompile Include="..\..\Ex2\src\chronoGPU.cu">
+      <Filter>Source Files</Filter>
+    </CudaCompile>
+    <CudaCompile Include="..\..\Ex2\src\student.cu">
+      <Filter>Source Files</Filter>
+    </CudaCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\aya20\Desktop\Master Gystave Eiffel\M2 cours\GPGPU\TD\TP1_GPGPU\Ex2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{37E9A417-A84B-389C-A423-EA013FE73D2E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
